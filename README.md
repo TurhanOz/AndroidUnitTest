@@ -1,5 +1,6 @@
 # Android Unit Test
 [![Build Status](https://travis-ci.org/TurhanOz/AndroidUnitTest.svg?branch=master)](https://travis-ci.org/TurhanOz/AndroidUnitTest)
+
 This project is intended to cover interesting Android Unit Test scenario using Robolectric 3.0, Juni4.+, Mockito 1.9.+
 
 Each components and associated unit tests' use cases are detailed below.
