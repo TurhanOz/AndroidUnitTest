@@ -15,7 +15,7 @@ Each components and associated unit tests' use cases are detailed below.
 
 
 ## Articles
-Detailed process of [AlarmManager]()
+Detailed process of [AlarmManager](http://turhanoz.com/alarmmanager-unit-test-using-robolectric-3-0/)
 
 License
 -------
